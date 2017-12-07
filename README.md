@@ -2,7 +2,7 @@
 
 After installing these scripts you will arrive at a different kind of Linux Mint.
 
-![Screenshots](http://i.imgur.com/KdTNgou.jpg)
+![Screenshots](https://i.imgur.com/qqkV7jc.jpg)
 
 ## Download this github
 
@@ -18,20 +18,6 @@ Or you can use the terminal and the git command
 ## Update your system.
 
 First update/upgrade your system with mintupdate icon at bottom right.
-
-
-## Kernel
-
-First I upgrade the kernel.
-
-You will find two scripts to upgrade your kernel.
-
-Do not forget to type "./" in front of the name.
-
-Type in the terminal
-
-
-	update-to-the-last-stable-4.x.x-latest.sh
 
 
 ## Software installation
@@ -73,7 +59,7 @@ Check first at https://github.com/erikdubois/Arc-Theme-Colora-Collection if your
 
 We can install all the created themes with this script
 
-	theme-arc-colora-collection-3.2-vx.sh
+	theme-arc-colora-collection-3.6-vx.sh
 
 The version of cinnamon is important to have a nice theme or not.
 Linux Mint 18.3 = cinnamon version 3.6.6
@@ -90,7 +76,7 @@ Check first at https://github.com/erikdubois/Mint-Y-Colora-Theme-Collection if y
 
 We can install all the created themes with this script
 
-	theme-mint-y-colora-collection-3.2-vx.sh
+	theme-mint-y-colora-collection-3.6-vx.sh
 
 The version of cinnamon is important to have a nice theme or not.
 Linux Mint 18.3 = cinnamon version 3.6.6
