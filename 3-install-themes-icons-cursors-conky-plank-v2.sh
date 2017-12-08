@@ -13,43 +13,43 @@ set -e
 
 # Conky Aureola
 
-sh conky-aureola-v3.sh
+sh conky-aureola-v*.sh
 
 ###############################################################################################
 
 # Sardi-extra icons
 
-sh icons-sardi-extra-v4.sh
+sh icons-sardi-extra-v*.sh
 
 ###############################################################################################
 
 # Sardi icons
 
-sh icons-sardi-v3.sh
+sh icons-sardi-v*.sh
 
 ###############################################################################################
 
 # Surfn icons
 
-sh icons-surfn-v4.sh
+sh icons-surfn-v*.sh
 
 ###############################################################################################
 
 # Arc theme
 
-sh install-gtk-arc-theme-v1.sh
+sh install-gtk-arc-theme-v*.sh
 
 #############################################################################################
 
 # Arc-flatabulous theme
 
-sh install-arc-flatabulous-theme-v1.sh
+sh install-arc-flatabulous-theme-v*.sh
 
 #############################################################################################
 
 # Plank themes
 
-sh plank-themes-v3.sh
+sh plank-themes-v*.sh
 
 ###############################################################################################
 

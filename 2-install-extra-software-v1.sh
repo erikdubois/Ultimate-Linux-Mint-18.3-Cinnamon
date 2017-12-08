@@ -13,87 +13,87 @@ set -e
 
 # Atom
 
-sh install-atom-v1.sh
+sh install-atom-v*.sh
 
 ###############################################################################################
 
 # Brackets
 
-sh install-brackets-v1.sh
+sh install-brackets-v*.sh
 
 ###############################################################################################
 
 # Google Chrome
 
-sh install-google-chrome-v1.sh
+sh install-google-chrome-v*.sh
 
 ###############################################################################################
 
 # Gradio
 
-sh install-gradio-v2.sh
+sh install-gradio-v*.sh
 
 ###############################################################################################
 
 # Neofetch
 
-sh install-neofetch-v1.sh
+sh install-neofetch-v*.sh
 
 ###############################################################################################
 
 # Peek
 
-sh install-peek-v2.sh
+sh install-peek-v*.sh
 
 ###############################################################################################
 
 # Redshift
 
-sh install-redshift-v1.sh
+sh install-redshift-v*.sh
 
 ###############################################################################################
 
 # Simplescreenrecorder
 
-sh install-simplescreenrecorder-v1.sh
+sh install-simplescreenrecorder-v*.sh
 
 ###############################################################################################
 
 # Spotify
 
-sh install-spotify-v2.sh
+sh install-spotify-v*.sh
 
 
 ###############################################################################################
 
 # Sublime text 3
 
-sh install-sublime-text-v1.sh
+sh install-sublime-text-v*.sh
 
 
 ###############################################################################################
 
 # Teamviewer
 
-#sh install-teamviewer-v1.sh
+#sh install-teamviewer-v*.sh
 
 #############################################################################################
 
 # Variety
 
-sh install-variety-v1.sh
+sh install-variety-v*.sh
 
 ###############################################################################################
 
 # Vivaldi
 
-sh install-vivaldi-snapshot-v1.sh
+sh install-vivaldi-snapshot-v*.sh
 
 ###############################################################################################
 
 # Hardcode fixer
 
-sh hardcodefixer-v1.sh
+sh hardcodefixer-v*.sh
 
 ###############################################################################################
 
